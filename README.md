@@ -4,10 +4,13 @@ Date: June 2023 - July 2023
 Keywords:
 
 Description:
-As a Data Analytics Intern, I worked over the course of 8 weeks to build a machine learning model from the ground up. 
-Starting with data collection and integration using SQL in Snowflake. Then data preprocessing and cleaning using SQL and Python. Lastly creating a machine-learning model that predicted the likelihood that an account would close
+As a Data Analytics Intern, I worked over the course of 8 weeks to build a machine-learning model from the ground up. 
+Starting with data collection and integration using SQL in Snowflake. The data preprocessing and cleaning using SQL and Python. Lastly creating a machine-learning model that predicted the likelihood that an account would close
 
 Responsibilities:
+- Utilized Python for data analysis, extracting valuable insights to inform strategic decisions
+- Improved customer retention through data preparation in Snowflake, predictive analysis in Python, and two multipage Power BI apps
+- Presented companies first implemented Machine Learning project to Executive Leadership and Marketing team
 
 Links: (n/a)
 
