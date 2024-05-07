@@ -2,6 +2,7 @@
 Date: June 2023 - July 2023
 
 Keywords:
+Machine Learning, Business Intelligence, Python, SQL, Snowflake
 
 Description:
 As a Data Analytics Intern, I worked over the course of 8 weeks to build a machine-learning model from the ground up. 
