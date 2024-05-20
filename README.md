@@ -16,7 +16,7 @@ Responsibilities:
 Links: (n/a)
 
 Contents:
-- Not Available: Due to the security protocols mandated by the, the work is unable to be displayed. However, below are descriptions of the key deliverables accomplished during my internship
+- Not Available: Due to the security protocols mandated by the company, the work is unable to be displayed. However, below are descriptions of the key deliverables accomplished during my internship
 - Presentation: Delivered a comprehensive presentation highlighting the project during my internship. This included showcasing the developed model, and its outputs and provided an introductory overview of Machine Learning, particularly significant as it marked the company's first a machine learning model in production.
 - SQL Code: Leveraged Snowflake, a cloud-based data warehousing platform, to proficiently craft SQL solutions. Tasks included creating transient tables, employing sub-queries, executing joins, utilizing aggregation functions, implementing conditional logic, and more.
 - Python Code: Utilized Python in conjunction with Snowflake connections to prepare data tables for analysis. Conducted thorough testing of various machine learning models, resulting in the successful training and deployment of a machine learning algorithm.
